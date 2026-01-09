@@ -25,8 +25,13 @@
     font-weight: 600;
     cursor: pointer;
     transition: all 0.3s;
+    text-decoration: none;
+    align-items: center;
+    display: inline-block;
+    
 
 }
+
 
 .color-green{
     color: #30B868;
@@ -72,6 +77,11 @@ header nav .menu{
     align-items: center;
 
 }
+nav .anchor-1{
+    padding: 20px;
+    padding-left: 30px;
+
+}
 
 header nav .menu a{
     font-size: 16px;
@@ -80,6 +90,7 @@ header nav .menu a{
     line-height: 152%;
     text-decoration: none;
 }
+
 
 #banner{
     background-image: url('assets/hero-bg.png');
