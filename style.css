@@ -311,3 +311,7 @@ footer{
     color: white;
 
 }
+hr{
+    margin-bottom: 20px;
+    opacity: 30%;
+}
