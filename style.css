@@ -93,7 +93,7 @@ header nav .menu a{
     /* padding: 115px 120px 179px 120px; */
     padding-bottom: 179px;
     padding-top: 115px;
-    
+    background-size: cover;
     
 }
 .banner-container{
@@ -281,6 +281,15 @@ footer{
     font-weight: 500;
     margin-bottom: 16px;
 
+}
+.social .links .footer-image{
+    padding-left: 10px;
+
+}
+.social .footer-image{
+    display: flex;
+    gap: 16px;
+    margin: 0 auto;
 }
 .social .footer-image img {
     background-color: white;
